@@ -1,0 +1,69 @@
+{
+    "baseUrl": "",
+    "login": "",
+    "senha": "",
+    "G1135": {
+        "opcao": "É essa",
+        "mensagemFeedback": "Suas respostas foram gravadas. Obrigado."
+    },
+    "G1136": {
+        "opcao": "É essa",
+        "mensagemFeedback": "Necessários"
+    },
+    "G1137": {
+        "opcao1": "É essa 1",
+        "opcao2": "É essa 2",
+        "mensagemFeedback": "Suas respostas foram gravadas. Obrigado."
+    },
+    "G1138": {
+        "mensagemFeedback": "Suas respostas foram gravadas. Obrigado."
+    },
+    "G1141": {
+        "resposta": "Teste texto longo",
+        "mensagemFeedback": "Suas respostas foram gravadas. Obrigado."
+    },
+    "G1142": {
+        "mensagemFeedback": "Necessários"
+    },
+    "G1143": {
+        "resposta": "a",
+        "mensagemFeedback": "Suas respostas foram gravadas. Obrigado."
+    },
+    "G1144": {
+        "mensagemFeedback": "Suas respostas foram gravadas. Obrigado."
+    },
+    "G1145": {
+        "resposta": "1",
+        "mensagemFeedback": "Suas respostas foram gravadas. Obrigado."
+    },
+    "G1146": {
+        "mensagemFeedback": "Necessários"
+    },
+    "G1147": {
+        "mensagemFeedback": "Suas respostas foram gravadas. Obrigado."
+    },
+    "G1148": {
+        "resposta": "-1",
+        "mensagemFeedback": "Valor fora do intervalo"
+    },
+    "G1149": {
+        "resposta": "Me dá um TOK",
+        "mensagemFeedback": "Suas respostas foram gravadas. Obrigado."
+    },
+    "G1150": {
+        "mensagemFeedback": "Necessários"
+    },
+    "G1151": {
+        "mensagemFeedback": "Suas respostas foram gravadas. Obrigado."
+    },
+    "G1152": {
+        "resposta": "012345678901234567890",
+        "mensagemFeedback": "Suas respostas foram gravadas. Obrigado."
+    },
+    "G1153": {
+        "resposta": "Me dá um TOK",
+        "mensagemFeedback": "Suas respostas foram gravadas. Obrigado.",
+        "mensagemFeedbackErro": "Você já terminou esta atividade."
+    }
+
+}

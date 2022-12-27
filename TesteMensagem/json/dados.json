@@ -1,0 +1,150 @@
+{
+    "baseUrl": "",
+    "envioDeMensagem": {
+        "mensagem": "Olá!",
+        "usuario1": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        },
+        "usuario2": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        }
+    },
+    "envioDeMensagemEntrePessoas": {
+        "mensagem": "Olá!",
+        "usuario1": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        },
+        "usuario2": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        }
+    },
+    "envioDeMensagensEntrePessoas": {
+        "usuario1": {
+            "nome": "",
+            "login": "",
+            "senha": "",
+            "mensagem1": "Olá!",
+            "mensagem2": "Tudo bem?"
+        },
+        "usuario2": {
+            "nome": "",
+            "login": "",
+            "senha": "",
+            "mensagem1": "Tudo ótimo",
+            "mensagem2": "E com você?"
+        }
+    },
+    "envioDeMensagemClicandoNoIcone": {
+        "mensagem": "Olá!",
+        "usuario1": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        },
+        "usuario2": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        }
+    },
+    "envioEmMassaParaTodosOsParticipantes": {
+        "mensagem": "Mensagem em massa",
+        "usuario1": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        },
+        "usuario2": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        },
+        "usuario3": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        },
+        "usuario4": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        },
+        "usuario5": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        }
+    },
+    "envioEmMassaParaUmParticipante": {
+        "mensagem": "Mensagem em massa",
+        "usuario1": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        },
+        "usuario2": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        }
+    },
+    "envioDeMensagemVazia": {
+        "mensagem": " ",
+        "usuario1": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        },
+        "usuario2": {
+            "nome": ""
+        }
+    },
+    "envioDeMensagemComFormatacao": {
+        "mensagem": "<b>negrito</b><i>itálico</i><del>cancelado</del>",
+        "usuario1": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        },
+        "usuario2": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        }
+    },
+    "envioDeMensagemEmMassaVazia": {
+        "mensagem": " ",
+        "erro": "Por favor, digite o texto da mensagem",
+        "usuario1": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        },
+        "usuario2": {
+            "nome": ""
+        }
+    },
+    "envioExclusaoConversa": {
+        "mensagem": "Olá!",
+        "mensagemConversaVazia": "Nenhuma conversa privada",
+        "usuario1": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        },
+        "usuario2": {
+            "nome": "",
+            "login": "",
+            "senha": ""
+        }
+    }
+    
+}

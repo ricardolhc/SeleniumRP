@@ -1,0 +1,46 @@
+{
+    "baseUrl": "",
+    "matricula": "",
+    "senha": "",
+    "adicionarArquivoConceitoSemDescricao": {
+        "tituloSecao" : "Blockchain Conceitos e aplicações",
+        "tituloAtividade": "Material de estudo Conceitos e aplicações",
+        "caminhoArquivo": ""
+    },
+    "adicionarArquivoIntroducaoComDescricao": {
+        "tituloSecao" : "Blockchain Introdução",
+        "tituloAtividade": "Material de estudo Introdução",
+        "caminhoArquivo": "",
+        "descricao": "Material de estudo Introdução de Blockchain"
+    },
+    "adicionarArquivoSHAGrandeAdicionarAceito": {
+        "tituloSecao" : "Entendendo o SHA-256",
+        "tituloAtividade": "Material de estudo SHA-256",
+        "erro": "O arquivo MaterialEstudoSHAGrande.pdf é muito grande. Apenas pode carregar arquivos com um tamanho máximo de 10 Mb.",
+        "caminhoArquivoGrande": "",
+        "caminhoArquivoAceito": ""
+    },
+    "adicionarArquivoSHARemover": {
+        "tituloSecao" : "Entendendo o SHA-256",
+        "tituloAtividade": "Material de estudo SHA-256",
+        "caminhoArquivo": ""
+    },
+    "adicionarArquivoCriandoTrocarTitulo": {
+        "tituloSecao" : "Criando sua primeira Blockchain com Java",
+        "tituloAtividade": "Material de estudo Criando sua primeira Blockchain com Java",
+        "tituloAtividadeAlterado": "Material de estudo Criando sua primeira Blockchain com Linguagem Java",
+        "caminhoArquivo": ""
+    },
+    "naoAdicionarArquivoUpload": {
+        "tituloSecao" : "Entendendo o SHA-256",
+        "tituloAtividade": "Material de estudo SHA-256",
+        "erro": "Necessários",
+        "caminhoArquivo": ""
+    },
+    "uploadExcedenteTamanho": {
+        "tituloSecao" : "Entendendo o SHA-256",
+        "tituloAtividade": "Material de estudo SHA-256",
+        "erro": "O arquivo MaterialEstudoSHAGrande.pdf é muito grande. Apenas pode carregar arquivos com um tamanho máximo de 10 Mb.",
+        "caminhoArquivo": ""
+    }
+}
